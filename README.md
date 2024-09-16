@@ -17,10 +17,9 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-A full stack web app made using MERN where a user can see
-trending crypto currencies and add them to their watchlist .
-Including functionalities of authorization like log-in ,sign-up
-with a very simple UI .
+Stay informed about the latest trends in cryptocurrency with CryptoTracker, a Full Stack Web App ( MERN ) designed to provide real-time data on trending cryptocurrencies. Built with a focus on simplicity and ease of use
+
+Whether you're a crypto enthusiast or just getting started, CryptoTracker helps you stay connected to the latest market movements in an intuitive and secure environment.
 
 ## <a name="techstack">⚙️ Tech Stack</a>
 
