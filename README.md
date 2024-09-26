@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://crypto-tracker-getarpit.netlify.app/" target="_blank"><img src="https://i.ibb.co/thL8294/3.png" alt="Main-Cover" border="0"></a>
+   <a href="https://crypto-tracker-getarpit.netlify.app/" target="_blank"><img src="https://github.com/user-attachments/assets/c53f75b8-7774-4821-a286-b8c3c286230e" alt="Main-Cover" border="0"></a>
   <br />
 
 # [Crypto Tracker ](https://crypto-tracker-getarpit.netlify.app/)
