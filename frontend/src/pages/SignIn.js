@@ -27,7 +27,7 @@ const SignIn = () => {
     event.preventDefault();
 
     const data = await fetch(
-      "https://crypto-tracker-amvr.onrender.com/api/v1/createuser",
+      "https://crypto-tracker-uhtx.onrender.com/api/v1/createuser",
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },

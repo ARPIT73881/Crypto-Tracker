@@ -23,7 +23,7 @@ const Login = () => {
   async function handleSubmit(event) {
     event.preventDefault();
     const data = await fetch(
-      "https://crypto-tracker-amvr.onrender.com/api/v1/login",
+      "https://crypto-tracker-uhtx.onrender.com/api/v1/login",
       {
         method: "POST",
         headers: {
